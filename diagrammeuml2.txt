@@ -1,0 +1,7 @@
+
+-evalutation
+	-precision(listedocAttendu : HashMap<String,Double>,query :String)
+
+	-rappel(listedocAttendu : HashMap<String,Double>,query :String)
+
+	-Fmesure(listedocAttendu : HashMap<String,Double>,query :String)

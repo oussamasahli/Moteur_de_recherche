@@ -1,0 +1,13 @@
+
+
+ IRModel
+ 	-Boolean (index :Index)
+ 	-VectorielCartesien (index :Index ,weighter :weighter)
+
+ Weighter(abstract)
+ 	-WeighterTF (index :Index)
+ 	-WeighterTFIDF(index :index)
+
+
+
+
